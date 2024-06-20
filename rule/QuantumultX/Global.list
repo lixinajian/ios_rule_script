@@ -1023,8 +1023,6 @@ HOST-SUFFIX,acasadasbrasileirinhas.com.br,Global
 HOST-SUFFIX,accbusiness.com,Global
 HOST-SUFFIX,acces-vod.com,Global
 HOST-SUFFIX,accessfacebookfromschool.com,Global
-
-
 HOST-SUFFIX,accounts.googlers.com,Global
 HOST-SUFFIX,accuweather.com,Global
 HOST-SUFFIX,accv.es,Global
@@ -3219,7 +3217,6 @@ HOST-SUFFIX,bimseeker.com,Global
 HOST-SUFFIX,bimsource.com,Global
 HOST-SUFFIX,bimworld.com,Global
 HOST-SUFFIX,binads.com,Global
-
 HOST-SUFFIX,bing123.com,Global
 HOST-SUFFIX,bingads.com,Global
 HOST-SUFFIX,bingagencyawards.com,Global
@@ -8770,7 +8767,6 @@ HOST-SUFFIX,hummingbird.ms,Global
 HOST-SUFFIX,humoron.com,Global
 HOST-SUFFIX,hungryclit.com,Global
 HOST-SUFFIX,hunk.ws,Global
-
 HOST-SUFFIX,huohaore.net,Global
 HOST-SUFFIX,hussiepass.com,Global
 HOST-SUFFIX,hutao.cloud,Global
@@ -12742,7 +12738,6 @@ HOST-SUFFIX,oiobbs.com,Global
 HOST-SUFFIX,ok.xxx,Global
 HOST-SUFFIX,okazudouga.tokyo,Global
 HOST-SUFFIX,okkisokuho.com,Global
-
 HOST-SUFFIX,older-women-movies.com,Global
 HOST-SUFFIX,older-women-porn.com,Global
 HOST-SUFFIX,older.tube,Global
@@ -13049,7 +13044,6 @@ HOST-SUFFIX,paylike.com,Global
 HOST-SUFFIX,paypa1.com,Global
 HOST-SUFFIX,paypa1.org,Global
 HOST-SUFFIX,paypaal.com,Global
-
 HOST-SUFFIX,payserve.com,Global
 HOST-SUFFIX,paysitesreviews.net,Global
 HOST-SUFFIX,payypal.com,Global
@@ -19365,7 +19359,6 @@ HOST-SUFFIX,bigsound.org,Global
 HOST-SUFFIX,bild.de,Global
 HOST-SUFFIX,biliworld.com,Global
 HOST-SUFFIX,billypan.com,Global
-
 HOST-SUFFIX,bing.com,Global
 HOST-SUFFIX,bing.net,Global
 HOST-SUFFIX,bingapis.com,Global
@@ -21524,7 +21517,6 @@ HOST-SUFFIX,humanrightspressawards.org,Global
 HOST-SUFFIX,humblebundle.com,Global
 HOST-SUFFIX,hung-ya.com,Global
 HOST-SUFFIX,hungerstrikeforaids.org,Global
-
 HOST-SUFFIX,huping.net,Global
 HOST-SUFFIX,hurgokbayrak.com,Global
 HOST-SUFFIX,hurriyet.com.tr,Global
@@ -22759,9 +22751,7 @@ HOST-SUFFIX,oiktv.com,Global
 HOST-SUFFIX,oizoblog.com,Global
 HOST-SUFFIX,ok.ru,Global
 HOST-SUFFIX,okayfreedom.com,Global
-
 HOST-SUFFIX,okk.tw,Global
-
 HOST-SUFFIX,olabloga.pl,Global
 HOST-SUFFIX,old-cat.net,Global
 HOST-SUFFIX,olehdtv.com,Global
@@ -25384,8 +25374,7 @@ IP-ASN,44907,Telegram
 IP-ASN,59930,Telegram
 IP-ASN,62014,Telegram
 IP-ASN,62041,Telegram
-
-HOST-SUFFIX,quantumult.app
+HOST-KEYWORD,quantumult
 HOST-SUFFIX,psafeapi.com
 HOST-SUFFIX,edifei.com
 HOST-SUFFIX,maxmind.com
